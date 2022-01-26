@@ -1,0 +1,10 @@
+1/26/2022-TryOut Day1
+Task:
+Linked Git to Ubuntu
+Used Vim
+Used git commit
+Used git push
+modified the file from local storage
+Used git add
+Used git remote 
+
