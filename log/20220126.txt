@@ -1,4 +1,5 @@
 1/26/2022-TryOut Day1
+Time Planned:4 hrs
 Task:
 Linked Git to Ubuntu
 Used Vim
@@ -7,4 +8,5 @@ Used git push
 modified the file from local storage
 Used git add
 Used git remote 
+Time Commited:5 hrs
 
