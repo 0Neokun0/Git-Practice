@@ -27,3 +27,4 @@ case operator
 end
 
 #Calculator processing program / 電卓処理プログラム (終了)
+#end
