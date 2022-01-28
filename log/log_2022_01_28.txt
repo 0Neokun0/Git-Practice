@@ -3,9 +3,8 @@
 Time Planned: 3 hr
 merge Commit
 Practice git commands:
-git init
-touch <file>
-vim <file>
-git commit
-git push
+git delete commands
+git delete branchs
+git reset
+git reset hard
 
