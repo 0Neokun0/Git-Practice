@@ -1,0 +1,10 @@
+1/28/2022-TryOut Day3
+
+Time Planned: 3 hr
+merge Commit
+Practice git commands:
+git delete commands
+git delete branchs
+git reset
+git reset hard
+
