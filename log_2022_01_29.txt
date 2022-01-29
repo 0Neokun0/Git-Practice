@@ -8,4 +8,5 @@ git log --stat
 
 git add - Staging area
 git add. - Staging all the files remaining
-git log -
+git ssh key
+
