@@ -3,15 +3,12 @@ if hungry == "はい":
     print( "ラメンを食べたい!" )
     print( "寿司を食べたい!" )
     print( "バーガーを食べたい!" )
-<<<<<<< HEAD
+# HEAD
     print( "マクドのフライスを食べたい!" )
-else:
-    print( "G.A.TRYOUTの課題にコミットをしましたか？" )
-=======
 else:
     thirsty = input ( " 喉を乾いていますか?" )
     if thirsty == "yes":
         print( "ミスを飲んでください!" )
         print( "お茶を飲んでください!" )
 
->>>>>>> pull_merge_practice
+# pull_merge_practice
