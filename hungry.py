@@ -4,6 +4,4 @@ if hungry == "はい":
     print( "寿司を食べたい!" )
     print( "バーガーを食べたい!" )
 else:
-    thirsty = input ( " 喉を乾いていますか?" )
-    if thirsty == "yes":
-        print( "ミスを飲んでください!" )
+    print( "G.A.TRYOUTの課題にコミットをしましたか？" )
