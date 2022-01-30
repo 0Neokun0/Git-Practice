@@ -7,3 +7,5 @@ else:
     thirsty = input ( " 喉を乾いていますか?" )
     if thirsty == "yes":
         print( "ミスを飲んでください!" )
+        print( "お茶を飲んでください!" )
+
