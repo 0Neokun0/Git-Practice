@@ -1,2 +1,3 @@
 # bootcamp
-G.A.Technologies Bootcamp start date 26/01/2022 
+G.A.Technologies Bootcamp start date 26/01/2022
+Bootcamp is fun! 
