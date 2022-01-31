@@ -6,6 +6,7 @@
 # VARIABLES 変数
 # Uppercase by convention 慣例により大文字
 
+<<<<<<< HEAD
 # read -p "ENTER YOUR NAME :" NAME
 # echo " Hello ${NAME}, はじめまして、よろしくお願いいたします。 "
 
@@ -16,3 +17,8 @@ then
     echo " カタカナでお名前はニシャントです。"
 fi
 # SIMPLE IF STATEMENT 終了
+=======
+read -p "ENTER YOUR NAME :" NAME
+echo " Hello ${NAME}, はじめまして、よろしくお願いいたします。 "
+# test 1 complete
+>>>>>>> 56f622961fcb14e589147cc4f0110823d2c4bc22
