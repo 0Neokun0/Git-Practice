@@ -8,3 +8,4 @@ echo "Hello Everyone!"
 
 read -p "ENTER YOUR NAME :" NAME
 echo " Hello ${NAME}, はじめまして、よろしくお願いいたします。 "
+# test 1 complete
