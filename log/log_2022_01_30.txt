@@ -4,6 +4,6 @@ Time Planned 3 hr
 
 git branch
 git branch and merge
-
+(コードうまくmergeなってなかった件についてもっと勉強しよう。）
 Time Commited 3 hrs
 
