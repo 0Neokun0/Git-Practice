@@ -28,15 +28,15 @@
 # test 2 開始
 
 # IF-ELSE
-read -p "ENTER YOUR NAME :" NAME
-if [ "$NAME" == "Nishant" ]
-then
-    echo "本人でしょうね"
-elif [ "$NAME" == "Meher" ]
-then 
-    echo "Meherさんですようね!"
-else
-    echo "本人確認書類をいります!"
-fi
+    # read -p "ENTER YOUR NAME :" NAME
+    # if [ "$NAME" == "Nishant" ]
+    # then
+    #     echo "本人でしょうね"
+    # elif [ "$NAME" == "Meher" ]
+    # then 
+    #     echo "Meherさんですようね!"
+    # else
+    #     echo "本人確認書類をいります!"
+    # fi
 
 # test 2 complete 終了
