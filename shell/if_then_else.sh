@@ -18,4 +18,4 @@ else
   echo " 10より未満です"         # 例 : 10 >
 fi
 
-#CONDITIONS条件終了
+#CONDITIONS条件終了 
