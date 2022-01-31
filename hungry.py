@@ -11,4 +11,4 @@ else:
         print( "ミスを飲んでください!" )
         print( "お茶を飲んでください!" )
 
-# pull_merge_practice
+# pull_merge_practice　
