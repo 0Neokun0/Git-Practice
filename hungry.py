@@ -8,4 +8,4 @@ else:
     if thirsty == "yes":
         print( "ミスを飲んでください!" )
         print( "お茶を飲んでください!" )
-
+#end
