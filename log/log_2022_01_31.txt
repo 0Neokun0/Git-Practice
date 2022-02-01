@@ -1,0 +1,32 @@
+1/31/2022-TryOut Day6
+
+Time Planned 8 hr
+
+Windows Terminal 
+Windows Terminal Setup
+Windows Powershell
+基本 linux command
+
+Commants list-
+
+Start-Transcript
+Get-Command
+Powershell Scripting Parameters
+shellscripting 基礎 (echo , user input)
+shellscripting [if else and elif fi] conditions
+Git for Powershell
+
+SHELL programming
+[shell script / echo
+shell script / conditional statements
+shell script / loops]
+
+greeting.sh
+if_then_else.sh
+loops.sh
+user_input.sh
+
+
+
+
+Time Commited 9 hrs
