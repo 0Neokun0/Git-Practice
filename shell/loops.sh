@@ -23,5 +23,3 @@ done
 
 
 #CONDITIONS条件終了
-
-
