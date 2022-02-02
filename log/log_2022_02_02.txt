@@ -1,0 +1,12 @@
+2/2/2022-TryOut Day8
+
+Time Planned 4 hr
+
+Learn Branching
+Understand git workflow again
+git remove files
+git remove folders
+git make new branch for new folders
+git review best practices
+
+Time Commited 4 hrs
