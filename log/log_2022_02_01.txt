@@ -8,3 +8,4 @@ Merging Best Practices
 Branch name Best Practices
 
 Time Commited 2 hrs
+
