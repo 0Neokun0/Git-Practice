@@ -3,3 +3,6 @@
 
 Time Planned : 2時間
 
+Shell Programming
+- for
+- seq
