@@ -3,6 +3,16 @@
 
 Time Planned : 2時間
 
+【修正】
+https://github.com/0Neokun0/bootcamp/pull/31
+git merging
+git branching 
+git commit
 Shell Programming
 - for
-- seq
+
+*GITでコードチェックする事。
+*インデントを気を付る事
+*self-review before PR
+
+Time Commited : 3時間
