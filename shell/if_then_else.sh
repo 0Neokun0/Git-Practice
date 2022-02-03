@@ -15,7 +15,7 @@ elif [[ $NUMBER -eq 10 ]]
 then
   echo " 10です。"              # 例 : 10 ==
 else
-  echo " 10より未満です"         # 例 : 10 >
+  echo " 10より未満です。 "         # 例 : 10 >
 fi
 
 #CONDITIONS条件終了
