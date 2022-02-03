@@ -12,11 +12,11 @@ a=0                  # a変数　= 値
 while [ $a -lt 10 ]
 do
 	# Print the values
-    # 値を出力します
+    	# 値を出力します
 	echo " $a "
 	
 	# increment the value
-    # 値を増分します
+    	# 値を増分します
 	a=`expr $a + 1`
 done
 
