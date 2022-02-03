@@ -1,6 +1,6 @@
-#! /usr/bin/bash
+  #! /usr/bin/bash  
 
-#FOR LOOPS RANGE
+  #FOR LOOPS RANGE  
 
 for numbers in {1..5}; do echo " $numbers "; done
 
@@ -12,4 +12,4 @@ for numbers in {1..5}; do echo " $numbers "; done
  5
 出力
 
-#END
+  #END  
