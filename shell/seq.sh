@@ -17,7 +17,14 @@ echo -e " 終了値を入力してください : \c ";
 for number in `seq $starting_num $interval_num $ending_num`
 
 do
-    echo " $number ";  #出力 : 1 3 5 7 9  
+    echo " $number ";    
 done
 
+<<出力
+ 1
+ 3
+ 5 
+ 7 
+ 9
+出力
   #END  
