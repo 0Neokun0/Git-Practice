@@ -2,7 +2,11 @@
 
   #FOR LOOPS RANGE  
 
-for numbers in {1..5}; do echo " $numbers "; done
+for numbers in {1..5}
+
+do 
+  echo " $numbers ";
+done
 
 <<出力
  1
