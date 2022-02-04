@@ -1,0 +1,15 @@
+2/3/2022-TryOur Day9
+
+
+Time Planned : 4時間
+
+git branching
+git push --set-upstream origin master  
+git removing branch files
+
+shell-programming
+shell seq コード
+条件分岐 と 繰り返し処理 を組み合わせた shell script をコード
+推測ゲーム
+
+Time Commited : 4時間
