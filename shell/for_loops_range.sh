@@ -4,7 +4,7 @@
 
 for numbers in {1..5}
 
-do 
+do
   echo " $numbers ";
 done
 
