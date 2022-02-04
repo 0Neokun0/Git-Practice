@@ -1,7 +1,7 @@
   #! /usr/bin/bash  
   ## SEQ COMMAND  
 
-  #ECHO COMMANDS   
+  #ECHO COMMANDS  
 
 echo -e " 開始値を入力してください : \c "
 
