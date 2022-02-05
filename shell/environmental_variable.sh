@@ -2,7 +2,7 @@
 
     
 TODAYS_DATE=$(date  +"%B %-d, %Y")     # 環境変数  
-echo "Today's date is $TODAYS_DATE"    # 例 : February 5, 2022  
+echo " Today's date is $TODAYS_DATE "  # 例 : February 5, 2022  
 
 export FULL_NAME="ニシャントーNishant"  #export設定  
 
