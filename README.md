@@ -8,15 +8,15 @@
 <!-- INTRO:START -->
 ## I'm a Student and  Developer !!
 
-- 🌱 現在、Tryoutで[ git, shell-script, ruby, Linux(Unix)command-lines ]を学んでいます。 
-- 👯 遠藤 晃 / Akira Endo様は担当です。
-- 🥅 2022 Goals: 深く学び、レビューアの視点を理解する事。
-- ⚡ Fun fact: コーディングテストと筋力トレーニングが大好きです。
+  - 🌱    現在、Tryoutで[ git, shell-script, ruby, Linux(Unix)command-lines ]を学んでいます。 
+  - 👯    遠藤 晃 / Akira Endo様は担当です。
+  - 🥅    2022 Goals: 深く学び、レビューアの視点を理解する事。
+  - ⚡    Fun fact: コーディングテストと筋力トレーニングが大好きです。
 
--  🐣   G.A.Technologies Bootcamp start date 26/01/2022
--  🐤   Bootcamp is fun!
--  🐥   It seems difficult but its fun!
--  🐔   Git best practice is pull request in a branch - make changed - update - commit!
+  -  🐣   G.A.Technologies Bootcamp start date 26/01/2022
+  -  🐤   Bootcamp is fun!
+  -  🐥   It seems difficult but its fun!
+  -  🐔   Git best practice is pull request in a branch - make changed - update - commit!
 
 <!-- INTRO:END -->
 
