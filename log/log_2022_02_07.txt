@@ -1,0 +1,25 @@
+2/7/2022-TryOur Day13
+
+Time Planned : 4時間
+
+修正
+pull request 40 から 47 まで
+
+ネット検索
+shell script	
+shell script / pipe	パイプ "|" について調べ、それを利用した shell script をコードする
+
+Smooth Branching Practice:
+git checkout -b <Branch-name>
+touch <File-name>
+git add.
+git commit -m "comment"
+git push origin <Branch-name>
+
+要らないファイルはPRで入ること。
+セルフチェックする事。
+インデントのルール明確にした事。
+
+
+Time Committed : 4.30時間
+
