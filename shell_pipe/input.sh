@@ -10,3 +10,4 @@ else
         パイプまたはファイルからのstdin
     "
 fi
+# END  
