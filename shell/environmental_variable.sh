@@ -5,7 +5,7 @@ TODAYS_DATE=$(date  +"%B %-d, %Y")
 echo " Today's date is $TODAYS_DATE "
   # 例 : February 7, 2022  
   
-  # export設定 
+  # export設定  
 export FULL_NAME="ニシャントーNishant"
 
   # FULL_NAME設定  
