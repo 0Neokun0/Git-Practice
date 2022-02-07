@@ -30,4 +30,4 @@ done
  7 
  9
 出力
-  #END  
+#END  
