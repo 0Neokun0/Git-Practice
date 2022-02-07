@@ -1,0 +1,25 @@
+2/4/2022-TryOur Day10
+
+
+Time Planned : 4時間
+
+git branching
+git push --set-upstream origin master  
+git removing branch files
+
+shell-programming
+ネット検索
+shell seq コード
+条件分岐 と 繰り返し処理 を組み合わせた shell script をコード
+推測ゲーム
+
+
+CLEAN BRANCHING :
+git checkout -b <branch-name>
+git touch/vim <file_name>
+git add .
+git commit -m "Comment"
+git push origin <branch-name>
+
+
+Time Commited : 4時間
