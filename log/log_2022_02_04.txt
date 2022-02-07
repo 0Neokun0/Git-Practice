@@ -20,6 +20,7 @@ git touch/vim <file_name>
 git add .
 git commit -m "Comment"
 git push origin <branch-name>
+ネット検索-no notificaton after 'git push origin <branch-name>
 
 
 Time Commited : 4時間
