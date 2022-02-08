@@ -1,0 +1,35 @@
+2/8/2022-TryOur Day14
+
+Time Planned : 4時間
+
+【修正】
+pull request 40 , 45 , 47, 50 
+【ネット検索｝
+shell script	
+shell script redirect Pull request 54
+resolve conflict
+rebase
+study more about resolve conflicts
+switch branch from main and NOT FROM BRANCH TO BRANCH
+
+【進歩】
+pull request 
+52 Absolute Relative Path相対パス・絶対パスをパラメータで渡し、渡されたファイルパスが相対か絶対かを判定する shell script をコード,
+53 シェルスクリプトAからシェルスクリプトBを呼び出す（Aの中でBのスクリプトを実行する） shell script をコード.
+
+Smooth Branching Practice:
+git checkout -b <Branch-name>
+touch <File-name>
+git add.
+git commit -m "comment"
+git push origin <Branch-name>
+
+要らないファイルはPRで入ること。
+セルフチェックする事。
+インデントのルール明確にした事。
+
+
+
+
+Time Committed : 4時間
+
