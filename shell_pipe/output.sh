@@ -1,14 +1,14 @@
   #
   #! /usr/bin/bash 
   #
-if [ -t 1 ] ; then
+  if [ -t 1 ] ; then
     echo "
         stdoutはターミナルウィンドウに移動します
     "
-else
+  else
 
     echo "
         stdoutはリダイレクトまたはパイプされています
     "
-fi
+  fi
   # END  
