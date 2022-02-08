@@ -1,5 +1,5 @@
 
-### Hi there, I'm ニシャントーNishant- aka [0Neokun0][website] 👋 
+### Hi there, I'm ニシャントーNishant - aka [0Neokun0][website] 👋 
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://upcolor.weblike.jp/portfolio-1/)
 
