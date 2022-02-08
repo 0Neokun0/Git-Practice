@@ -28,21 +28,21 @@
   MIN=${NUMBER_COUNT[0]}
   MAX=${NUMBER_COUNT[0]}
   
-  for(( i = 0; i < NUMBERS; i++ ))
-  do
+for(( i = 0; i < NUMBERS; i++ ))
+do
   #  
   # 最小数ロジック
   #
-  if [ ${NUMBER_COUNT[$i]} -lt $MIN ] ; then
-     MIN=${NUMBER_COUNT[$i]}
+if [ ${NUMBER_COUNT[$i]} -lt $MIN ] ; then
+MIN=${NUMBER_COUNT[$i]}
 
   #
   # 最大数ロジック
   #
-  elif [ ${NUMBER_COUNT[$i]} -gt $MAX ] ; then
-       MAX=${NUMBER_COUNT[$i]}
-  fi
-  done
+elif [ ${NUMBER_COUNT[$i]} -gt $MAX ] ; then
+MAX=${NUMBER_COUNT[$i]}
+fi
+done
   #
   # ECHO COMMAND 最小と最大の数値を出力する。
   #
