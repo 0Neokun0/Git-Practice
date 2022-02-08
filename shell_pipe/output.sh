@@ -1,14 +1,14 @@
-  #
-  #! /usr/bin/bash 
-  #
-  if [ -t 1 ] ; then
-    echo "
-        stdoutはターミナルウィンドウに移動します
-    "
-  else
+#
+#! /usr/bin/bash
+#
 
-    echo "
-        stdoutはリダイレクトまたはパイプされています
+if [ -t 1 ] ; then
+  echo "
+      stdoutはターミナルウィンドウに移動します
     "
-  fi
-  # END  
+else
+  echo "
+      stdoutはリダイレクトまたはパイプされています
+    "
+fi
+# END
