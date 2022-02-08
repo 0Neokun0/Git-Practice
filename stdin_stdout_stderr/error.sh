@@ -1,9 +1,9 @@
-  #! /usr/bin/bash
+#! /usr/bin/bash
   
-  #
-  #ECHO ERROR COMMAND  
-  #
-  echo " 存在しないファイルにアクセスしようとしています ! "  
-  cat bad-filename.txt  
+#
+#ECHO ERROR COMMAND  
+#
+echo " 存在しないファイルにアクセスしようとしています ! "  
+cat bad-filename.txt  
 
-  # END
+# END
