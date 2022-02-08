@@ -8,8 +8,8 @@
 
   for(( i = 0; i < NUMBERS; i++ ))
   do
-  echo " 数字 $((i+1)) を入力してください : "
-  read NUMBER_COUNT[$i]
+    echo " 数字 $((i+1)) を入力してください : "
+    read NUMBER_COUNT[$i]
   done
   
   #
@@ -19,7 +19,7 @@
 
   for(( i = 0; i < NUMBERS; i++ ))
   do
-  echo " ${NUMBER_COUNT[$i]} "
+    echo " ${NUMBER_COUNT[$i]} "
   done
   
   #
