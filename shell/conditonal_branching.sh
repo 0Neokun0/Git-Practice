@@ -38,7 +38,7 @@ continue
 #
 else
   echo -e " 推測は低すぎます。新しい推測,お願いします !"  
- continue
+continue
 fi 
 done
 
