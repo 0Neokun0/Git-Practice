@@ -41,7 +41,7 @@
   　#
 　　elif [ ${NUMBER_COUNT[$i]} -gt $MAX ] ; then
 　　MAX=${NUMBER_COUNT[$i]}
-　　fi
+　 fi
 　done
   #
   # ECHO COMMAND 最小と最大の数値を出力する。
