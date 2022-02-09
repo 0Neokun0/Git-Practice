@@ -16,7 +16,7 @@ number_2=`echo $number_1 | sed 's/[0-9]//g'`
 #
 if [ ! -z $number_2 ]　; then
   echo " 値ではありません! "  
-continue 
+　continue 
 fi
 
 #
@@ -24,22 +24,22 @@ fi
 #
 if [ $number_1 == $random_number ] ; then
   echo -e " よくできた!! \n\t- お疲れ様です。" 
-break
+　break
 
 #  
 # 推測の値は乱数ようり高い
 #
 elif [ $number_1 -gt $random_number ] ; then
   echo -e " 推測は高すぎます。新しい推測,お願いします ! " 
-continue
+　continue
   
 #
 # 推測の値は乱数ようり低い
 #
 else
   echo -e " 推測は低すぎます。新しい推測,お願いします !"  
-continue
-fi 
+　continue
+　fi 
 done
 
 #END
