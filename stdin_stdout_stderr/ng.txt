@@ -1,2 +1,0 @@
-存在しないファイルにアクセスしようとしています ! 
-cat: bad-filename.txt: No such file or directory
