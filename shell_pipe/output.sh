@@ -1,6 +1,5 @@
-#
 #! /usr/bin/bash
-#
+
 
 if [ -t 1 ] ; then
   echo "
