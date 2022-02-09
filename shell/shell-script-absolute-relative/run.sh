@@ -1,6 +1,4 @@
-#
 #! /usr/bin/bash   
-#
 
 if [[ ${path_to_check:0:1} = '/' ]] ; then
   echo "
