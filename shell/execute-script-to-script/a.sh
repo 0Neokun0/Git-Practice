@@ -1,6 +1,4 @@
-#
 #! /usr/bin/bash   
-#
 
 value=$1
 
