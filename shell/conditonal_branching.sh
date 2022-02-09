@@ -39,7 +39,7 @@ elif [ $number_1 -gt $random_number ] ; then
 else
   echo -e " 推測は低すぎます。新しい推測,お願いします !"  
 　continue
-　fi 
+ fi 
 done
 
 #END
