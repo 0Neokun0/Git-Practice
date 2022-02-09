@@ -9,7 +9,7 @@
 <!-- INTRO:START -->
 ## I'm a Student and  Developer !!
 
-  - 🌱    現在、Tryoutで[ git, shell-script, ruby, Linux(Unix)command-lines ]を学んでいます。 
+  - 🌱    現在、[ git, shell-script, ruby, Linux(Unix)command-lines ]を学んでいます。 
   - ⚡    Fun fact: コーディングテストと筋力トレーニングが大好きです。
 
 
