@@ -8,7 +8,7 @@
 
 <!-- INTRO:START -->
 ## I'm a Student and  Developer !!
-
+  - Start Date 26 Jan 2022 to 9 Feb 2022
   - 🌱    現在、[ git, shell-script, ruby, Linux(Unix)command-lines ]を学んでいます。 
   - ⚡    Fun fact: コーディングテストと筋力トレーニングが大好きです。
 
