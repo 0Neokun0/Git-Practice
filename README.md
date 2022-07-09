@@ -4,8 +4,6 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://upcolor.weblike.jp/portfolio-1/)
 
 
-
-
 <!-- INTRO:START -->
 ## I'm a Student and  Developer !!
   - Start Date 26 Jan 2022 to 9 Feb 2022
